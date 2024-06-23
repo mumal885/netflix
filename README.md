@@ -3,7 +3,7 @@
 
 
 
-![logo]([https://github.com/SumeetPatil7/To-do-list-/blob/main/To-do%20list%20%2B/td.png](https://github.com/mumal885/netflix/blob/main/netflix/Screenshot%202024-06-23%20115445.png))
+![logo](https://github.com/mumal885/netflix/blob/main/netflix/Screenshot%202024-06-23%20115445.png)
 # To-do-list
 This # To-do-list is coded in html, css,js.
 
