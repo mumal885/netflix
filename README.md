@@ -4,7 +4,7 @@
 
 
 ![logo](https://github.com/mumal885/netflix/blob/main/netflix/Screenshot%202024-06-23%20115445.png)
-# To-do-list
+# NetFlix
 This # To-do-list is coded in html, css,js.
 
 
